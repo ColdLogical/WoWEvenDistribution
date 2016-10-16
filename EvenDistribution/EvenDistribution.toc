@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: Even Distribution
+## Author: Cold Logic
+## Version: 0.1
+## SavedVariables: EvenlyDistributeItems
+
+main.lua
